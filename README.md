@@ -1,4 +1,4 @@
-# A programme for generating images of sequence of numbers
+# A programe for generating images of sequence of numbers
 
 A program that can generate images representing sequences of numbers, for data augmentation purposes. The user can specify the sequence of digits in the image, the minimum and maximum space between consecutive digits and the
 width of the final image.
